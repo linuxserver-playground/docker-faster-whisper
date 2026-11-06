@@ -19,7 +19,7 @@ cli                          UNKNOWN                            binary
 cli-32                       UNKNOWN                            binary                           
 cli-64                       UNKNOWN                            binary                           
 cli-arm64                    UNKNOWN                            binary                           
-click                        8.5.0                              python                           
+click                        8.5.1                              python                           
 coreutils                    9.4-3ubuntu6.3                     deb                              
 cron                         3.0pl1-184ubuntu2                  deb                              
 cron-daemon-common           3.0pl1-184ubuntu2                  deb                              
@@ -172,7 +172,7 @@ netcat-openbsd               1.226-1ubuntu2                     deb
 numpy                        2.5.4                              python                           
 nvidia-cublas-cu12           12.9.3.13                          python                           
 nvidia-cuda-nvrtc-cu12       12.9.86                            python                           
-nvidia-cudnn-cu12            9.28.0.42                          python                           
+nvidia-cudnn-cu12            9.28.1.4                           python                           
 onnxruntime                  1.31.1                             python                           
 openssl                      3.0.13-0ubuntu3.16                 deb                              
 packaging                    26.3                               python          (+2 duplicates)  
