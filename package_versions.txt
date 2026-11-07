@@ -20,7 +20,7 @@ cli                            UNKNOWN                                binary
 cli-32                         UNKNOWN                                binary                           
 cli-64                         UNKNOWN                                binary                           
 cli-arm64                      UNKNOWN                                binary                           
-click                          8.5.0                                  python                           
+click                          8.5.1                                  python                           
 coreutils                      9.5-1ubuntu2+0.0.0~ubuntu25            deb                              
 coreutils-from-uutils          0.0.0~ubuntu25                         deb                              
 cron                           3.0pl1-200ubuntu1                      deb                              
@@ -38,7 +38,7 @@ dpkg                           1.23.7ubuntu1                          deb
 e2fsprogs                      1.47.2-3ubuntu4                        deb                              
 faster-whisper                 1.2.1                                  python                           
 ffmpeg                         8.1.2                                  binary                           
-filelock                       4.2.8                                  python                           
+filelock                       4.2.9                                  python                           
 findutils                      4.10.0-3build2                         deb                              
 flatbuffers                    25.12.19                               python                           
 fsspec                         2026.9.0                               python                           
