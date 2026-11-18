@@ -38,7 +38,7 @@ dpkg                           1.23.7ubuntu1                          deb
 e2fsprogs                      1.47.2-3ubuntu4                        deb                              
 faster-whisper                 1.2.1                                  python                           
 ffmpeg                         8.1.2                                  binary                           
-filelock                       4.2.11                                 python          (+1 duplicate)   
+filelock                       4.2.12                                 python          (+1 duplicate)   
 findutils                      4.10.0-3build2                         deb                              
 flatbuffers                    25.12.19                               python                           
 fsspec                         2026.9.0                               python                           
