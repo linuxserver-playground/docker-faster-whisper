@@ -197,7 +197,7 @@ python3-venv                 3.12.3-0ubuntu2.1                  deb
 python3.12                   3.12.3-1ubuntu0.17                 deb                              
 python3.12-minimal           3.12.3-1ubuntu0.17                 deb                              
 python3.12-venv              3.12.3-1ubuntu0.17                 deb                              
-pyyaml                       6.0.3                              python                           
+pyyaml                       6.0.4                              python                           
 readline-common              8.2-4build1                        deb                              
 requests                     2.34.2                             python                           
 resolvelib                   1.2.1                              python                           
