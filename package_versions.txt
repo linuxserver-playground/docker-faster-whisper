@@ -6,7 +6,7 @@ anyio                          4.16.0                                 python
 apt                            3.2.1ubuntu0.1                         deb                              
 apt-utils                      3.2.1ubuntu0.1                         deb                              
 autocommand                    2.2.2                                  python                           
-av                             18.1.0                                 python          (+1 duplicate)   
+av                             18.1.1                                 python          (+1 duplicate)   
 backports-tarfile              1.2.0                                  python                           
 base-files                     14ubuntu6.3                            deb                              
 base-passwd                    3.6.8                                  deb                              
@@ -37,7 +37,7 @@ distro                         1.9.0                                  python
 dpkg                           1.23.7ubuntu1                          deb                              
 e2fsprogs                      1.47.2-3ubuntu4                        deb                              
 faster-whisper                 1.2.1                                  python                           
-ffmpeg                         8.1.2                                  binary                           
+ffmpeg                         8.1.3                                  binary                           
 filelock                       4.2.12                                 python          (+1 duplicate)   
 findutils                      4.10.0-3build2                         deb                              
 flatbuffers                    25.12.19                               python                           
@@ -208,7 +208,7 @@ python3-venv                   3.14.3-0ubuntu2                        deb
 python3.14                     3.14.4-1ubuntu0.2                      deb                              
 python3.14-minimal             3.14.4-1ubuntu0.2                      deb                              
 python3.14-venv                3.14.4-1ubuntu0.2                      deb                              
-pyyaml                         6.0.3                                  python                           
+pyyaml                         6.0.4                                  python                           
 readline-common                8.3-4                                  deb                              
 requests                       2.34.2                                 python                           
 resolvelib                     1.2.1                                  python                           
